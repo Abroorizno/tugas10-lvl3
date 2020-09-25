@@ -1,0 +1,107 @@
+.btn-sv:hover{
+	background-color: red;
+	border-radius: 5px;
+	border : 0px;
+	padding: 10px;
+	text-decoration: none;
+	color: white;
+
+}
+.btn-sv{
+	background-color: blue;
+	border-radius: 5px;
+	border: 0px;
+	padding: 10px;
+	text-decoration: none;
+	color: white;
+}
+.btn-sv:active{
+	background-color: white;
+	border-radius: 5px;
+	border: 0px;
+	padding: 10px;
+	text-decoration: none;
+	color: green;
+
+}
+
+.btn-ed:hover{
+	background-color: blue;
+	border-radius: 5px;
+	border : 0px;
+	padding: 10px;
+	text-decoration: none;
+	color: white;
+
+}
+.btn-ed{
+	background-color: red;
+	border-radius: 5px;
+	border: 0px;
+	padding: 10px;
+	text-decoration: none;
+	color: white;
+}
+.btn-ed:active{
+	background-color: white;
+	border-radius: 5px;
+	border: 0px;
+	padding: 10px;
+	text-decoration: none;
+	color: green;
+
+}
+
+.btn-hapus:hover{
+	background-color: red;
+	border-radius: 5px;
+	border : 0px;
+	padding: 10px;
+	text-decoration: none;
+	color: white;
+
+}
+.btn-hapus{
+	background-color: transparent;
+	border-radius: 5px;
+	border: 0px;
+	padding: 10px;
+	text-decoration: none;
+	color: white;
+}
+.btn-hapus:active{
+	background-color: white;
+	border-radius: 5px;
+	border: 0px;
+	padding: 10px;
+	text-decoration: none;
+	color: green;
+
+}
+
+a{
+	background-color: red;
+	border-radius: 5px;
+	border: 0px;
+	padding: 2px;
+	text-decoration: none;
+	color: white;
+}
+
+a:active{
+	background-color: white;
+	border-radius: 5px;
+	border: 0px;
+	padding: 2px;
+	text-decoration: none;
+	color: green;
+}
+
+a:hover{
+	background-color: blue;
+	border-radius: 5px;
+	border : 0px;
+	padding: 2px;
+	text-decoration: none;
+	color: white;
+}
